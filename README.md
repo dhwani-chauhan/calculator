@@ -3,17 +3,17 @@ Standard and Scientific calculations done with Java swing
 
 ### Functionalities:
 
-1. Standard Calculations:
-   i. Division
-   ii. Multiplication
-   iii. Addition
-   iv. Subtraction
-   v. Modulo
+1. Standard Calculations: <br>
+   i. Division <br>
+   ii. Multiplication <br>
+   iii. Addition <br>
+   iv. Subtraction <br>
+   v. Modulo 
 
-2. Scientific Calculations:
-   i. Power
-   ii. Root
-   iii. Log
+2. Scientific Calculations: <br>
+   i. Power <br>
+   ii. Root <br>
+   iii. Log 
    
    
 
